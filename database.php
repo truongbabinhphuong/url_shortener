@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';  // Usually localhost
-$db   = 'lfwvonoq_url_shortener_db';
-$user = 'lfwvonoq_url_shortener_db';  // Default user for XAMPP, change if necessary
-$pass = 'Z3pA9wHkAYxAAG83aw6G';  // No password for XAMPP, change if necessary
+$db   = '';
+$user = '';  // Default user for XAMPP, change if necessary
+$pass = '';  // No password for XAMPP, change if necessary
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
